@@ -54,12 +54,6 @@ Copy code
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
 }
-Deploy the project:
-
-bash
-Copy code
-npm run deploy
-The app will be live at https://kaushikdsai.github.io/healthcare-services.
 
 Usage
 View Services: The list of healthcare services is displayed on the main page.
